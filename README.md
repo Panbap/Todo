@@ -90,7 +90,7 @@ Bạn có thể mở rộng thêm:
 Nếu bạn thấy project này hữu ích, bạn có thể ủng hộ mình một ly cà phê ☕ để mình có thêm động lực phát triển 🚀
 
 <p align="center">
-  <img src="https://your-qr-image-link.png" alt="Donate QR" width="200"/>
+  <img src="https://raw.githubusercontent.com/Panbap/Donate/refs/heads/main/bank.png" alt="Donate QR" width="200"/>
 </p>
 
 <p align="center">
